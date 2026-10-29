@@ -103,3 +103,8 @@ Para asegurar el flujo de trabajo continuo y ordenado durante todo el desarrollo
    * Sesiones breves de 15 minutos dos veces por semana para revisar el avance individual, resolver bloqueos de integración (entre frontend, backend, base de datos y la infraestructura local) y definir metas para la siguiente entrega.
 3. **Canal de Comunicación Interna:**
    * Grupo de mensajería directo para resolución rápida de dudas operativas y seguimiento ágil de tareas.
+
+---
+Abierto a Continuidad...
+
+---
