@@ -80,5 +80,25 @@ Las siguientes funcionalidades quedan excluidas debido a limitaciones técnicas,
 
 ##
 
-### Apartir de aqui va la parte de Daniel(despues de agregar tu parte, borra esta linea)
 
+## 4. Distribución de actividades y responsabilidades
+
+| Integrante | Rol Principal | Tecnologías | Responsabilidades Específicas |
+| :--- | :--- | :--- | :--- |
+| **Emmanuel Alexander Poot Vázquez** | **Frontend Developer / UI & Local Infrastructure** | HTML5, CSS3, JavaScript, Servidor Web Local (Apache / Node.js LAN) | • Diseño de interfaz responsiva y accesible.<br>• Formularios de entrega de tareas y tablero de avisos.<br>• Validación visual en cliente.<br>• **Implementación y configuración de la infraestructura local:** montaje del servidor web local, direccionamiento por red de área local (LAN) para pruebas en dispositivos conectados y preparación del entorno de ejecución local (`localhost`). |
+| **Daniel Romero** | **Backend Developer** | JavaScript (Node.js) | • Lógica de negocio del servidor.<br>• Manejo del flujo de peticiones HTTP.<br>• Implementación de endpoints de autenticación, recepción y gestión de archivos subidos. |
+| **Aaron Diaz** | **Database & Data Integration** | MySQL, Scripts de conexión | • Modelado relacional de datos.<br>• Configuración del motor de base de datos MySQL.<br>• Consultas seguras y parametrizadas.<br>• Gestión de persistencia de usuarios, anuncios y entregas. |
+
+---
+
+## 5. Organización y coordinación del equipo
+
+Para asegurar el flujo de trabajo continuo y ordenado durante todo el desarrollo del proyecto integrador, el equipo implementará los siguientes mecanismos:
+
+1. **Gestión de Versiones y Código (GitHub):**
+   * Creación de un repositorio central en GitHub.
+   * Flujo de trabajo basado en ramas (`main` para versiones estables y ramas por características para cada integrante).
+2. **Reuniones de Sincronización:**
+   * Sesiones breves de 15 minutos dos veces por semana para revisar el avance individual, resolver bloqueos de integración (entre frontend, backend, base de datos y la infraestructura local) y definir metas para la siguiente entrega.
+3. **Canal de Comunicación Interna:**
+   * Grupo de mensajería directo para resolución rápida de dudas operativas y seguimiento ágil de tareas.
