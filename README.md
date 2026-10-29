@@ -3,9 +3,10 @@
 **Institución:** Tecnológico de Software  
 **Equipo:** Equipo 3  
 **Integrantes:**
-- Daniel Romero
-- Aaron Diaz
+
 - Emmanuel Alexander Poot Vazquez
+- Aaron Diaz Alonzo
+- Daniel Romero Laynas
 
 ---
 
