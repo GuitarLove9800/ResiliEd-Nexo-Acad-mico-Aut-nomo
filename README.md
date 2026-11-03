@@ -12,7 +12,7 @@
 
 ## 1. Definición clara del problema
 
-En el entorno académico actual, la dependencia total hacia plataformas propietarias centralizadas en la nube (tales como Microsoft Teams o Google Classroom) genera una vulnerabilidad crítica en la continuidad escolar. Cuando estos servicios sufren caídas de infraestructura global, fallas en sus servidores de autenticación (por ejemplo, Azure AD) o suspensiones por mantenimiento, el flujo de trabajo académico se interrumpe de forma abrupta e inmediata ijole.
+En el entorno académico actual, la dependencia total hacia plataformas propietarias centralizadas en la nube (tales como Microsoft Teams o Google Classroom) genera una vulnerabilidad crítica en la continuidad escolar. Cuando estos servicios sufren caídas de infraestructura global, fallas en sus servidores de autenticación (por ejemplo, Azure AD) o suspensiones por mantenimiento, el flujo de trabajo académico se interrumpe de forma abrupta e inmediata.
 
 Esta desconexión deja a estudiantes y docentes sin canales alternativos para recibir avisos urgentes, consultar fechas límite o enviar tareas críticas, resultando en desorganización y retrasos no atribuibles al alumnado.
 
@@ -103,4 +103,3 @@ Para asegurar el flujo de trabajo continuo y ordenado durante todo el desarrollo
    * Sesiones breves de 15 minutos dos veces por semana para revisar el avance individual, resolver bloqueos de integración (entre frontend, backend, base de datos y la infraestructura local) y definir metas para la siguiente entrega.
 3. **Canal de Comunicación Interna:**
    * Grupo de mensajería directo para resolución rápida de dudas operativas y seguimiento ágil de tareas.
-67
